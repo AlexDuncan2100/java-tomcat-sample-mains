@@ -6,5 +6,6 @@
   <h3> You are doing good work ... </h3>
   <h1> Latest revision </h1>
   <h3> Latest revision with trigger </h3>
+  <h3> I try poll scm option to deploy stage </h3>
 </body>
 </html>
